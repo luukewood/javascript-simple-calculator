@@ -119,7 +119,7 @@ html, body {
 
 .animation {
 	-webkit-animation: diseapper 1s;
-  animation: diseapper 1s;
+	animation: diseapper 1s;
   -webkit-animation-iteration-count: 1;
 	animation-iteration-count: 1;
 	-webkit-animation-fill-mode: both;
